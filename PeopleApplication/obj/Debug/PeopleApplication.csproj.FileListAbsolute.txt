@@ -1,0 +1,5 @@
+E:\Programming\#mentoring2016\PeopleApplication\PeopleApplication\bin\Debug\PeopleApplication.exe.config
+E:\Programming\#mentoring2016\PeopleApplication\PeopleApplication\bin\Debug\PeopleApplication.exe
+E:\Programming\#mentoring2016\PeopleApplication\PeopleApplication\bin\Debug\PeopleApplication.pdb
+E:\Programming\#mentoring2016\PeopleApplication\PeopleApplication\obj\Debug\PeopleApplication.exe
+E:\Programming\#mentoring2016\PeopleApplication\PeopleApplication\obj\Debug\PeopleApplication.pdb
